@@ -1,0 +1,170 @@
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'klahostc'@'localhost' (using password: NO) in /home2/klahostc/public_html/mlm/Files/include-header.php on line 8
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/klahostc/public_html/mlm/Files/include-header.php on line 8
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/klahostc/public_html/mlm/Files/include-header.php on line 8
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'klahostc'@'localhost' (using password: NO) in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 7
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 7
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 7
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'klahostc'@'localhost' (using password: NO) in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 74
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 74
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 75
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'klahostc'@'localhost' (using password: NO) in /home2/klahostc/public_html/mlm/Files/index.php on line 21
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/klahostc/public_html/mlm/Files/index.php on line 21
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/klahostc/public_html/mlm/Files/index.php on line 22
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'klahostc'@'localhost' (using password: NO) in /home2/klahostc/public_html/mlm/Files/index.php on line 64
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/klahostc/public_html/mlm/Files/index.php on line 64
+[14-Dec-2019 13:29:49 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/klahostc/public_html/mlm/Files/index.php on line 64
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'klahostc'@'localhost' (using password: NO) in /home2/klahostc/public_html/mlm/Files/include-header.php on line 8
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/klahostc/public_html/mlm/Files/include-header.php on line 8
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/klahostc/public_html/mlm/Files/include-header.php on line 8
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'klahostc'@'localhost' (using password: NO) in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 7
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 7
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 7
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'klahostc'@'localhost' (using password: NO) in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 74
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 74
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/klahostc/public_html/mlm/Files/include-navbar.php on line 75
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'klahostc'@'localhost' (using password: NO) in /home2/klahostc/public_html/mlm/Files/index.php on line 21
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/klahostc/public_html/mlm/Files/index.php on line 21
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/klahostc/public_html/mlm/Files/index.php on line 22
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'klahostc'@'localhost' (using password: NO) in /home2/klahostc/public_html/mlm/Files/index.php on line 64
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home2/klahostc/public_html/mlm/Files/index.php on line 64
+[14-Dec-2019 13:30:21 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/klahostc/public_html/mlm/Files/index.php on line 64
+[22-Dec-2019 15:05:57 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/klahostc/public_html/allearth/function.php:24
+Stack trace:
+#0 /home2/klahostc/public_html/allearth/include-header.php(3): connectdb()
+#1 /home2/klahostc/public_html/allearth/index.php(3): include('/home2/klahostc...')
+#2 {main}
+  thrown in /home2/klahostc/public_html/allearth/function.php on line 24
+[22-Dec-2019 15:06:27 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/klahostc/public_html/allearth/function.php:24
+Stack trace:
+#0 /home2/klahostc/public_html/allearth/include-header.php(3): connectdb()
+#1 /home2/klahostc/public_html/allearth/index.php(3): include('/home2/klahostc...')
+#2 {main}
+  thrown in /home2/klahostc/public_html/allearth/function.php on line 24
+[24-Dec-2019 18:09:56 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home2/klahostc/public_html/allearth/function.php:24
+Stack trace:
+#0 /home2/klahostc/public_html/allearth/include-header.php(3): connectdb()
+#1 /home2/klahostc/public_html/allearth/index.php(3): include('/home2/klahostc...')
+#2 {main}
+  thrown in /home2/klahostc/public_html/allearth/function.php on line 24
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 58
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 20
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:08:15 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 58
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 20
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:08:30 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 58
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 20
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:10:00 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 58
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 20
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:14:49 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-header.php on line 8
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 6
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 57
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 58
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 19
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 20
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 47
+[02-Jan-2020 15:15:51 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 47
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-header.php on line 8
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-header.php on line 8
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-header.php on line 8
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-header.php on line 8
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 6
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 6
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 6
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 6
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/include-navbar.php on line 57
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/include-navbar.php on line 57
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/include-navbar.php on line 57
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/include-navbar.php on line 58
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 19
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 19
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 19
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 20
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/allearth/public_html/index.php on line 47
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/allearth/public_html/index.php on line 47
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/allearth/public_html/index.php on line 47
+[06-Jan-2020 01:35:58 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/allearth/public_html/index.php on line 47
+[06-Jan-2020 01:55:44 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/allearth/public_html/include-navbar.php on line 72
+[06-Jan-2020 01:55:48 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/allearth/public_html/include-navbar.php on line 72
