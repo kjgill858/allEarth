@@ -9,3 +9,8 @@
 *.rar
 *.tar
 *.zip
+
+# Repository #
+##############
+# Ignoring repository inside a repository.
+testing/
